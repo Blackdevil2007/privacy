@@ -1,0 +1,56 @@
+[
+  {
+    "title": "What is Artificial Intelligence (AI)?",
+    "description": "A comprehensive introduction to AI concepts, history, and applications.",
+    "youtubeId": "mJeNghZXtMo",
+    "thumbnailUrl": "https://img.youtube.com/vi/mJeNghZXtMo/hqdefault.jpg",
+    "author": "IBM Technology",
+    "category": "beginner",
+    "tags": ["AI basics", "introduction", "machine learning"]
+  },
+  {
+    "title": "Machine Learning Basics",
+    "description": "Learn the fundamental concepts of machine learning and how it's used in AI applications.",
+    "youtubeId": "ukzFI9rgwfU",
+    "thumbnailUrl": "https://img.youtube.com/vi/ukzFI9rgwfU/hqdefault.jpg",
+    "author": "Google Cloud Tech",
+    "category": "beginner",
+    "tags": ["machine learning", "data science", "algorithms"]
+  },
+  {
+    "title": "But what is a neural network?",
+    "description": "A visual and intuitive explanation of how neural networks work, with stunning animations.",
+    "youtubeId": "aircAruvnKk",
+    "thumbnailUrl": "https://img.youtube.com/vi/aircAruvnKk/hqdefault.jpg",
+    "author": "3Blue1Brown",
+    "category": "intermediate",
+    "tags": ["neural networks", "deep learning", "math"]
+  },
+  {
+    "title": "How to Build Your First Chatbot with GPT-3",
+    "description": "Step-by-step guide to creating an AI-powered chatbot using OpenAI's GPT-3 language model.",
+    "youtubeId": "A0nPGaqXmGg",
+    "thumbnailUrl": "https://img.youtube.com/vi/A0nPGaqXmGg/hqdefault.jpg",
+    "author": "Code Emporium",
+    "category": "intermediate",
+    "tags": ["chatbot", "GPT-3", "natural language processing", "NLP"]
+  },
+  {
+    "title": "The Ethics of Artificial Intelligence",
+    "description": "Exploring the ethical considerations and challenges in developing and deploying AI systems.",
+    "youtubeId": "tcdVC4e6EV4",
+    "thumbnailUrl": "https://img.youtube.com/vi/tcdVC4e6EV4/hqdefault.jpg",
+    "author": "Oxford Academic",
+    "category": "advanced",
+    "tags": ["AI ethics", "responsible AI", "fairness", "bias"]
+  },
+  {
+    "title": "Introduction to Computer Vision",
+    "description": "Learn how computers can interpret and understand visual information from the world.",
+    "youtubeId": "2S4nn7S8Hk4",
+    "thumbnailUrl": "https://img.youtube.com/vi/2S4nn7S8Hk4/hqdefault.jpg",
+    "author": "freeCodeCamp.org",
+    "category": "intermediate",
+    "tags": ["computer vision", "image recognition", "object detection"]
+  }
+]
